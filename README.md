@@ -1,3 +1,6 @@
+Global Youtube Statistics Analysis 
+
+
 This Power BI dashboard provides a comprehensive analysis of YouTube channel performance and its relation to socioeconomic factors, presented across two 
 pages. **Page 1** focuses on individual YouTuber performance, featuring visuals such as the top 10 YouTubers by subscribers, a scatter plot comparing video
 views and subscribers (with uploads as bubble sizes), monthly earnings ranges, category distribution via a donut chart, and a country-wise map of uploads. 
